@@ -25,19 +25,24 @@
 	<div class="container">
 		<div class="row">
   			<div class="col-sm-3 sidebar-bg">
-  			<u1>
+  			<ul>
   			<li>
   			<a href="/mall/index.jsp">»®¿∏∑Œ</a>
   			</li>
-  			</u1>
+  			</ul>
   
   			</div>
   				<div class="col-sm-9">
+  					<div class="jumbotron">
+  						<h1> hello my mall</h1>
+  						<p>øÏ∏Æ ºÓ«Œ∏Ù¿∫.....</p>
+  					</div>
+  				
   				</div>
   			
   			</div>
 		</div>
-	</div>
+
 
 </body>
 </html>
